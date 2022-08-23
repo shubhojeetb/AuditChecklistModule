@@ -1,0 +1,424 @@
+INFO  09:14:42 Application started. Press Ctrl+C to shut down.
+INFO  09:14:42 Application started. Press Ctrl+C to shut down.
+INFO  09:14:42 Hosting environment: Development
+INFO  09:14:42 Hosting environment: Development
+INFO  09:14:42 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:14:42 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:15:07 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:15:07  Http GET request calledChecklistProvider
+INFO  09:15:07 Log from ChecklistRepo
+INFO  09:15:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:15:21  Http GET request calledChecklistProvider
+INFO  09:15:21 Log from ChecklistRepo
+INFO  09:17:22 Application started. Press Ctrl+C to shut down.
+INFO  09:17:22 Application started. Press Ctrl+C to shut down.
+INFO  09:17:22 Hosting environment: Development
+INFO  09:17:22 Hosting environment: Development
+INFO  09:17:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:17:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:17:28 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:17:28  Http GET request calledChecklistProvider
+INFO  09:17:28 Log from ChecklistRepo
+INFO  09:17:33 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:18:51 Application started. Press Ctrl+C to shut down.
+INFO  09:18:51 Application started. Press Ctrl+C to shut down.
+INFO  09:18:51 Hosting environment: Development
+INFO  09:18:51 Hosting environment: Development
+INFO  09:18:51 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:18:51 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:19:57 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:20:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:09:36 Application started. Press Ctrl+C to shut down.
+INFO  09:09:36 Application started. Press Ctrl+C to shut down.
+INFO  09:09:36 Hosting environment: Development
+INFO  09:09:36 Hosting environment: Development
+INFO  09:09:36 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:09:36 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:11:25 Application started. Press Ctrl+C to shut down.
+INFO  09:11:25 Application started. Press Ctrl+C to shut down.
+INFO  09:11:25 Hosting environment: Development
+INFO  09:11:25 Hosting environment: Development
+INFO  09:11:25 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:11:25 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:12:21 Application started. Press Ctrl+C to shut down.
+INFO  09:12:21 Application started. Press Ctrl+C to shut down.
+INFO  09:12:21 Hosting environment: Development
+INFO  09:12:21 Hosting environment: Development
+INFO  09:12:21 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:12:21 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:29:37 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:29:37  Http GET request calledChecklistProvider
+INFO  09:29:37 Log from ChecklistRepo
+INFO  09:30:24 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:30:24  Http GET request calledChecklistProvider
+INFO  09:30:24 Log from ChecklistRepo
+INFO  09:53:45 Application started. Press Ctrl+C to shut down.
+INFO  09:53:45 Application started. Press Ctrl+C to shut down.
+INFO  09:53:45 Hosting environment: Development
+INFO  09:53:45 Hosting environment: Development
+INFO  09:53:45 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  09:53:45 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:01:58 Application started. Press Ctrl+C to shut down.
+INFO  10:01:58 Application started. Press Ctrl+C to shut down.
+INFO  10:01:58 Hosting environment: Development
+INFO  10:01:58 Hosting environment: Development
+INFO  10:01:58 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:01:58 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:06:24 Application started. Press Ctrl+C to shut down.
+INFO  10:06:24 Application started. Press Ctrl+C to shut down.
+INFO  10:06:24 Hosting environment: Development
+INFO  10:06:24 Hosting environment: Development
+INFO  10:06:24 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:06:24 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:15:41 Application started. Press Ctrl+C to shut down.
+INFO  10:15:41 Application started. Press Ctrl+C to shut down.
+INFO  10:15:41 Hosting environment: Development
+INFO  10:15:41 Hosting environment: Development
+INFO  10:15:41 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:15:41 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:17:09 Application started. Press Ctrl+C to shut down.
+INFO  10:17:09 Application started. Press Ctrl+C to shut down.
+INFO  10:17:09 Hosting environment: Development
+INFO  10:17:09 Hosting environment: Development
+INFO  10:17:09 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:17:09 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  10:51:24 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:51:24  Http GET request calledChecklistProvider
+INFO  10:51:24 Log from ChecklistRepo
+INFO  10:51:49 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:51:49  Http GET request calledChecklistProvider
+INFO  10:51:49 Log from ChecklistRepo
+INFO  12:02:22 Application started. Press Ctrl+C to shut down.
+INFO  12:02:22 Application started. Press Ctrl+C to shut down.
+INFO  12:02:22 Hosting environment: Development
+INFO  12:02:22 Hosting environment: Development
+INFO  12:02:22 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:02:22 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:04:07 Application started. Press Ctrl+C to shut down.
+INFO  12:04:07 Application started. Press Ctrl+C to shut down.
+INFO  12:04:07 Hosting environment: Development
+INFO  12:04:07 Hosting environment: Development
+INFO  12:04:07 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:04:07 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:04:31 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:04:31  Http GET request calledChecklistProvider
+INFO  12:04:31 Log from ChecklistRepo
+INFO  12:09:53 Application started. Press Ctrl+C to shut down.
+INFO  12:09:53 Application started. Press Ctrl+C to shut down.
+INFO  12:09:53 Hosting environment: Development
+INFO  12:09:53 Hosting environment: Development
+INFO  12:09:53 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:09:53 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:15:15 Application started. Press Ctrl+C to shut down.
+INFO  12:15:15 Application started. Press Ctrl+C to shut down.
+INFO  12:15:15 Hosting environment: Development
+INFO  12:15:15 Hosting environment: Development
+INFO  12:15:15 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  12:15:15 Content root path: C:\Users\suvin\Downloads\AuditChecklistModule
+INFO  03:00:51 Application started. Press Ctrl+C to shut down.
+INFO  03:00:51 Application started. Press Ctrl+C to shut down.
+INFO  03:00:51 Hosting environment: Development
+INFO  03:00:51 Hosting environment: Development
+INFO  03:00:51 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  03:00:51 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:53:04 Application started. Press Ctrl+C to shut down.
+INFO  10:53:04 Application started. Press Ctrl+C to shut down.
+INFO  10:53:04 Hosting environment: Development
+INFO  10:53:04 Hosting environment: Development
+INFO  10:53:04 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:53:04 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:07:08 Application started. Press Ctrl+C to shut down.
+INFO  10:07:08 Application started. Press Ctrl+C to shut down.
+INFO  10:07:08 Hosting environment: Development
+INFO  10:07:08 Hosting environment: Development
+INFO  10:07:08 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:07:08 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:11:56 Application started. Press Ctrl+C to shut down.
+INFO  10:11:56 Application started. Press Ctrl+C to shut down.
+INFO  10:11:56 Hosting environment: Development
+INFO  10:11:56 Hosting environment: Development
+INFO  10:11:56 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:11:56 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:16:07 Application started. Press Ctrl+C to shut down.
+INFO  10:16:07 Application started. Press Ctrl+C to shut down.
+INFO  10:16:07 Hosting environment: Development
+INFO  10:16:07 Hosting environment: Development
+INFO  10:16:07 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  10:16:07 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:37:34 Application started. Press Ctrl+C to shut down.
+INFO  09:37:34 Application started. Press Ctrl+C to shut down.
+INFO  09:37:35 Hosting environment: Development
+INFO  09:37:35 Hosting environment: Development
+INFO  09:37:35 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:37:35 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:39:08 Application started. Press Ctrl+C to shut down.
+INFO  09:39:08 Application started. Press Ctrl+C to shut down.
+INFO  09:39:08 Hosting environment: Development
+INFO  09:39:08 Hosting environment: Development
+INFO  09:39:08 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:39:08 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:40:58 Application started. Press Ctrl+C to shut down.
+INFO  09:40:58 Application started. Press Ctrl+C to shut down.
+INFO  09:40:58 Hosting environment: Development
+INFO  09:40:58 Hosting environment: Development
+INFO  09:40:58 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:40:58 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:42:07 Application started. Press Ctrl+C to shut down.
+INFO  09:42:07 Application started. Press Ctrl+C to shut down.
+INFO  09:42:07 Hosting environment: Development
+INFO  09:42:07 Hosting environment: Development
+INFO  09:42:07 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:42:07 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:49:34 Application started. Press Ctrl+C to shut down.
+INFO  09:49:34 Application started. Press Ctrl+C to shut down.
+INFO  09:49:34 Hosting environment: Development
+INFO  09:49:34 Hosting environment: Development
+INFO  09:49:34 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:49:34 Content root path: C:\Project\AuditManagementSystem\AuditChecklistModule
+INFO  09:53:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:53:03  Http GET request calledChecklistProvider
+INFO  09:53:03 Log from ChecklistRepo
+INFO  01:13:24 Application started. Press Ctrl+C to shut down.
+INFO  01:13:24 Application started. Press Ctrl+C to shut down.
+INFO  01:13:24 Hosting environment: Development
+INFO  01:13:24 Hosting environment: Development
+INFO  01:13:24 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  01:13:24 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:34:44 Application started. Press Ctrl+C to shut down.
+INFO  03:34:44 Application started. Press Ctrl+C to shut down.
+INFO  03:34:44 Hosting environment: Development
+INFO  03:34:44 Hosting environment: Development
+INFO  03:34:44 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:34:44 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:36:49 Application started. Press Ctrl+C to shut down.
+INFO  03:36:49 Application started. Press Ctrl+C to shut down.
+INFO  03:36:49 Hosting environment: Development
+INFO  03:36:49 Hosting environment: Development
+INFO  03:36:49 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:36:49 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  08:57:09 Application started. Press Ctrl+C to shut down.
+INFO  08:57:09 Application started. Press Ctrl+C to shut down.
+INFO  08:57:09 Hosting environment: Development
+INFO  08:57:09 Hosting environment: Development
+INFO  08:57:09 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  08:57:09 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  08:59:47 Application started. Press Ctrl+C to shut down.
+INFO  08:59:47 Application started. Press Ctrl+C to shut down.
+INFO  08:59:47 Hosting environment: Development
+INFO  08:59:47 Hosting environment: Development
+INFO  08:59:47 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  08:59:47 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  08:59:58 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:00:34 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:00:44 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:00:44 Log from ChecklistRepo
+INFO  09:20:08 Application started. Press Ctrl+C to shut down.
+INFO  09:20:08 Application started. Press Ctrl+C to shut down.
+INFO  09:20:08 Hosting environment: Development
+INFO  09:20:08 Hosting environment: Development
+INFO  09:20:08 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  09:20:08 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+ERROR 09:20:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:20:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:21:07 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:21:07 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:21:43 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:21:43 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuditChecklistModule.Providers.IChecklistProvider' while attempting to activate 'AuditChecklistModule.Controllers.AuditChecklistController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:22:41 Application started. Press Ctrl+C to shut down.
+INFO  09:22:41 Application started. Press Ctrl+C to shut down.
+INFO  09:22:41 Hosting environment: Development
+INFO  09:22:41 Hosting environment: Development
+INFO  09:22:41 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  09:22:41 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  09:44:22 Application started. Press Ctrl+C to shut down.
+INFO  09:44:22 Application started. Press Ctrl+C to shut down.
+INFO  09:44:22 Hosting environment: Development
+INFO  09:44:22 Hosting environment: Development
+INFO  09:44:22 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  09:44:22 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  09:44:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:44:48  Http GET request calledChecklistProvider
+INFO  09:44:48 Log from ChecklistRepo
+INFO  09:45:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:45:13 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:48:39 Application started. Press Ctrl+C to shut down.
+INFO  05:48:39 Application started. Press Ctrl+C to shut down.
+INFO  05:48:39 Hosting environment: Development
+INFO  05:48:39 Hosting environment: Development
+INFO  05:48:39 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  05:48:39 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  06:00:49 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:00:49  Http GET request calledChecklistProvider
+INFO  06:00:49 Log from ChecklistRepo
+INFO  06:01:16 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:01:34 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:01:42 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:01:47 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:01:47  Http GET request calledChecklistProvider
+INFO  06:01:47 Log from ChecklistRepo
+INFO  06:01:54 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:20:56 Application started. Press Ctrl+C to shut down.
+INFO  03:20:56 Application started. Press Ctrl+C to shut down.
+INFO  03:20:56 Hosting environment: Development
+INFO  03:20:56 Hosting environment: Development
+INFO  03:20:56 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:20:56 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  03:21:40 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:21:40  Http GET request calledChecklistProvider
+INFO  03:21:40 Log from ChecklistRepo
+INFO  03:21:59 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:22:04 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:22:12 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:22:12  Http GET request calledChecklistProvider
+INFO  03:22:12 Log from ChecklistRepo
+INFO  04:05:20 Application started. Press Ctrl+C to shut down.
+INFO  04:05:20 Application started. Press Ctrl+C to shut down.
+INFO  04:05:21 Hosting environment: Development
+INFO  04:05:21 Hosting environment: Development
+INFO  04:05:21 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  04:05:21 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditChecklistModule
+INFO  04:05:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:06:42 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:06:42  Http GET request calledChecklistProvider
+INFO  04:06:42 Log from ChecklistRepo
+INFO  09:30:05 Application started. Press Ctrl+C to shut down.
+INFO  09:30:05 Application started. Press Ctrl+C to shut down.
+INFO  09:30:05 Hosting environment: Development
+INFO  09:30:05 Hosting environment: Development
+INFO  09:30:05 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  09:30:05 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  09:30:14 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:30:14  Http GET request calledChecklistProvider
+INFO  09:30:14 Log from ChecklistRepo
+INFO  10:21:42 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:21:42  Http GET request calledChecklistProvider
+INFO  10:21:42 Log from ChecklistRepo
+INFO  10:41:51 Application started. Press Ctrl+C to shut down.
+INFO  10:41:51 Application started. Press Ctrl+C to shut down.
+INFO  10:41:51 Hosting environment: Development
+INFO  10:41:51 Hosting environment: Development
+INFO  10:41:51 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  10:41:51 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  10:43:27 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:43:27  Http GET request calledChecklistProvider
+INFO  10:43:27 Log from ChecklistRepo
+INFO  10:46:38 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:46:38  Http GET request calledChecklistProvider
+INFO  10:46:38 Log from ChecklistRepo
+INFO  10:50:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:50:03  Http GET request calledChecklistProvider
+INFO  10:50:03 Log from ChecklistRepo
+INFO  10:52:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:52:06  Http GET request calledChecklistProvider
+INFO  10:52:06 Log from ChecklistRepo
+INFO  11:04:19 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:04:19  Http GET request calledChecklistProvider
+INFO  11:04:19 Log from ChecklistRepo
+INFO  01:49:51 Application started. Press Ctrl+C to shut down.
+INFO  01:49:51 Application started. Press Ctrl+C to shut down.
+INFO  01:49:51 Hosting environment: Development
+INFO  01:49:51 Hosting environment: Development
+INFO  01:49:51 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  01:49:51 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditChecklistModule
+INFO  01:50:13 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:50:13  Http GET request calledChecklistProvider
+INFO  01:50:13 Log from ChecklistRepo
+INFO  01:52:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:52:48  Http GET request calledChecklistProvider
+INFO  01:52:48 Log from ChecklistRepo
